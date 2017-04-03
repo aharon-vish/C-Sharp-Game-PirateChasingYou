@@ -1,0 +1,49 @@
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\MainWindow.baml
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\MainWindow.g.cs
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\App.g.cs
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo_Content.g.cs
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo_MarkupCompile.cache
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.g.resources
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.Properties.Resources.resources
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.csproj.GenerateResource.Cache
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.pdb
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.exe
+c:\users\aharon.v\documents\visual studio 2010\projects\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.pdb
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.exe
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.pdb
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\App.g.cs
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo_Content.g.cs
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo_MarkupCompile.cache
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.g.resources
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.Properties.Resources.resources
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.csproj.GenerateResource.Cache
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe
+C:\Users\aharo_000\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.pdb
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.exe
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.pdb
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.pdb
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\App.g.cs
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo_Content.g.cs
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo_MarkupCompile.cache
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.g.resources
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.Properties.Resources.resources
+C:\Users\aharon.v\Desktop\ProjectDemo\ProjectDemo\obj\x86\Debug\ProjectDemo.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\ProjectDemo.exe
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\ProjectDemo.pdb
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\bin\Debug\ProjectDemo.exe
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\bin\Debug\ProjectDemo.pdb
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\ProjectDemo.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\MainWindow.baml
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\App.g.cs
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\ProjectDemo_Content.g.cs
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\ProjectDemo_MarkupCompile.cache
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\ProjectDemo.g.resources
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\ProjectDemo.Properties.Resources.resources
+\\Mac\Home\Desktop\aharon vishinski\ProjectDemo\obj\x86\Debug\ProjectDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,31 @@
+﻿<Window x:Class="ProjectDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="668" Width="680"
+         KeyDown="OnWindowKeyDown">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu  Height="28">
+            <MenuItem x:Name="startMenuItem" Header="Start Game">
+                <MenuItem x:Name="easy_level" Header="easy level" Click="Easy_level_Click"/>
+                <MenuItem x:Name="medium_level" Header="medium level" Click="medium_level_Click"   />
+                <MenuItem x:Name="hard_level" Header="hard level" Click="hard_level_Click"/>
+            </MenuItem>
+            <MenuItem Name="select_pic" Header="select picture backround" Click="select_pic_Click"  />
+            <MenuItem Name="reset" Header="Reset Game   " Click="reset_Click" />
+            <MenuItem x:Name="exitMenuItem" Header="Exit Game" Click="exitMenuItem_Click"   />
+        </Menu>
+
+        <Canvas x:Name="canvas" Grid.Row="1"   >
+            <MediaElement Canvas.Left="237" Canvas.Top="413" Height="120" Name="mediaElement1" Width="160" Volume="100" IsMuted="False" LoadedBehavior="Manual" />
+        </Canvas>
+        <Label Height="28" Name="label1" Margin="494,0,0,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStyle="Italic" FontFamily="Wide Latin" ></Label>
+        <Label Content="score :" Height="28" HorizontalAlignment="Left" Margin="371,-4,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="421,0,0,0" Name="label3" VerticalAlignment="Top" Width="67" FontWeight="Bold" />
+    </Grid>
+</Window>
+
